@@ -22,4 +22,5 @@ Lookin' up at 'em like i never even knew 'em at all
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-jair-nt/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Nukitaz/)![Mi GIF2](https://raw.githubusercontent.com/Nukitaz/Nukitaz/refs/heads/main/assets/gif%20another.gif)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Nukitaz/)
+![Mi GIF2](https://raw.githubusercontent.com/Nukitaz/Nukitaz/refs/heads/main/assets/gif%20another.gif)
