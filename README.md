@@ -4,7 +4,7 @@
 Throw me off the edge, i'll fall
 Lookin' up at 'em like i never even knew 'em at all
 
-![Mi GIF](https://raw.githubusercontent.com/Nukitaz/Nukitaz/refs/heads/main/assets/skeleton%201.gif)
+![Mi GIF](./assets/skeleton.gif)
 ## Languages & Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -16,11 +16,11 @@ Lookin' up at 'em like i never even knew 'em at all
 
 
 
-![Logo](https://raw.githubusercontent.com/Nukitaz/Nukitaz/refs/heads/main/assets/angel.png)
+![Logo](./assets/angel.png)
 
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-jair-nt/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Nukitaz/)
 ## 
-![Mi GIF2](https://raw.githubusercontent.com/Nukitaz/Nukitaz/refs/heads/main/assets/gif%20another.gif)
+![Mi GIF2](./assets/another.gif)
